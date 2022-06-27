@@ -1,0 +1,16 @@
+git init
+git add .
+git clone "http url"
+git commit -m "initial commit"
+git remote add origin "http url"
+git branch <new branch name>
+git checkout <switched branch name>
+git add <new add file name>
+git merge <new merge branch name>
+git log
+git status
+git checkout -b <new branch name>
+gedit index.html
+git stash apply stash
+git push -u origin master
+
